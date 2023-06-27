@@ -1,7 +1,6 @@
-package com.example.demo;
+package com.example.demo.controller;
 
-import java.util.Arrays;
-import java.util.List;
+import com.example.demo.model.Course;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
